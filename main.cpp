@@ -1,3 +1,6 @@
+// if you see this, I am already dead
+
+
 /* mbed Microcontroller Library
  * Copyright (c) 2018 ARM Limited
  * SPDX-License-Identifier: Apache-2.0
